@@ -14,7 +14,8 @@
  * limitations under the License.
  */
 
-package com.github.kayr;
+package com.github.kayr.springantpath;
+
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -23,6 +24,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
+import com.github.kayr.springantpath.AntPathMatcher;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

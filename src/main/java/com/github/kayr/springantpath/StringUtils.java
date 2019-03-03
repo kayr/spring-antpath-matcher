@@ -1,4 +1,4 @@
-package com.github.kayr;
+package com.github.kayr.springantpath;
 
 import java.util.ArrayList;
 import java.util.List;

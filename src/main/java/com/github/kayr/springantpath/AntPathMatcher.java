@@ -14,7 +14,9 @@
  * limitations under the License.
  */
 
-package com.github.kayr;
+package com.github.kayr.springantpath;
+
+import com.github.kayr.springantpath.StringUtils;
 
 import java.util.Comparator;
 import java.util.LinkedHashMap;
